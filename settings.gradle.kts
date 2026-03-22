@@ -1,1 +1,1 @@
-rootProject.name = "lab5-apach-spark"
+rootProject.name = "lab5-apache-spark"
